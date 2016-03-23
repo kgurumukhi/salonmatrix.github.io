@@ -3,7 +3,7 @@ name: 'ZENOTI'
 website: 'http://www.zenoti.com/'
 vendor:
   name: 'SohamOnline'
-  website: 'http://www.managemyspa.com'
+  website: 'http://www.zenoti.com/'
   founded: 2010
   country: US
 deployment:
