@@ -13,6 +13,7 @@ deployment:
 pricing: 'from $65.00/month'
 features:
   appointments: true
+  online_booking: true
   clients: true
   employees: true
   giftcards: true
